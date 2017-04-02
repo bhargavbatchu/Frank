@@ -1,0 +1,176 @@
+﻿@{
+    ViewBag.Title = "Video";
+}
+
+<h2>Video</h2>
+<script>
+(function () {
+    'use strict';
+
+    angular.module('app', [
+        'app.core.services',
+        'app.core.directives',
+        'app.videochat'
+    ]);
+})();
+
+(function () {
+    'use strict';
+
+    angular
+    .module('app.videochat', [])
+    .controller('VideoChatController', VideoChatController);
+
+    VideoChatController.$inject = ['$scope', '$log'];
+
+    function VideoChatController($scope, $log) {
+        var vm = this;
+    }
+})();
+
+function VideoChatController($scope, $log) {
+    var vm = this;
+
+    vm.previewMedia = null;
+}
+
+function VideoChatController($scope, $log) {
+    var vm = this;
+
+    vm.previewCamera = function () {
+
+        vm.previewMedia = new Twilio.Conversations.LocalMedia();
+        Twilio.Conversations.getLocalMedia().then(function (mediaStream) {
+
+            $scope.$apply(function () {
+                vm.previewMedia.addStream(mediaStream);
+            });
+
+        }).catch(function (error) {
+            $log.error('Unable to access local media', error);
+        });
+    };
+
+    vm.previewMedia;
+}
+
+(function () {
+    'use strict';
+
+    angular
+    .module('app.core.directives', [])
+    .directive('twilioVideo', twilioVideoDirective);
+
+    function twilioVideoDirective() {
+    }
+})();
+
+function twilioVideoDirective() {
+    return {
+        template: '<div class="twilio-video-media-container"></div>',
+        restrict: 'E',
+        replace: true,
+        scope: {
+            media: '=',
+        }
+    }
+}
+function twilioVideoDirective() {
+    return {
+        template: '<div class="twilio-video-media-container"></div>',
+        restrict: 'E',
+        replace: true,
+        scope: {
+            media: '=',
+        },
+        link: function (scope, element, $attributes) {
+            scope.$watch('media', function (newval, oldval) {
+                if (scope.media) {
+                    scope.media.attach(element[0]);
+                }
+            }, true);
+        }
+    }
+}
+(function () {
+    'use strict';
+
+    angular
+    .module('app.core.services', [])
+    .factory('tokenService', tokenService)
+
+    tokenService.$inject = ['$http'];
+
+    function tokenService($http) {
+        var service = {
+
+        };
+        return service;
+    }
+})();
+function tokenService($http) {
+    var service = {
+        getToken: function getToken() {
+            return $http.get('/token')
+            .then(function(response) {
+                return response.data;
+            })
+            .catch(function(error) {
+                console.error('XHR Failed for getToken.'   error.data);
+            });
+        }
+    };
+    return service;
+}
+VideoChatController.$inject = ['$scope', ‘$log’, 'tokenService'];
+    
+function VideoChatController($scope, $log, tokenService) {
+    //
+}
+
+var vm = this;
+var token;
+var identity;
+var conversationsClient;
+var activeConversation;
+function getToken() {
+    return tokenservice.getToken()
+    .then(function (data) {
+        token = data.token;
+        identity = data.identity;
+        return token;
+    });
+}
+activate();
+function activate() {
+    return getToken().then(function (token) { 
+        var accessManager = new Twilio.AccessManager(token);
+
+        conversationsClient = new Twilio.Conversations.Client(accessManager);
+
+    });
+}
+return getToken().then(function (token) { 
+    var accessManager = new Twilio.AccessManager(token);
+
+    conversationsClient = new Twilio.Conversations.Client(accessManager);
+    conversationsClient.listen().then(function() {
+        $log.log('Connected to Twilio. Listening for incoming Invites as "'   conversationsClient.identity   '"');
+
+        conversationsClient.on('invite', function (invite) {
+            $log.log('Incoming invite from: '   invite.from);
+            invite.accept();
+        });
+    }).catch(function (error) {
+        $log.log('Could not connect to Twilio: '   error.message);
+    });
+});
+</script>
+<div ng-app="app" ng-controller="VideoChatController as vm">
+    <div id="remote-media"></div>
+    <div id="controls">
+        ...
+    </div>
+</div>
+<button id="button-preview" ng-click="vm.previewCamera()">Preview My Camera</button>
+<twilio-video id="local-media" media="vm.previewMedia"></twilio-video>

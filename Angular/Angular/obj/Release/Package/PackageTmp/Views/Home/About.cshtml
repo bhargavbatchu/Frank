@@ -1,0 +1,114 @@
+﻿@model Angular.Models.LoginModel
+@{
+    ViewBag.Title = "About";
+}
+    <div ng-app="myApp" ng-controller="customersCtrl">
+        <input type="hidden" ng-model="userId" id="UserId" value="@Model.Id" />
+        <div id="tbl" style="border: 1px solid black;background-color:rgba(0,0,0,0.20); height: 446px; width: 859px; overflow-y: scroll; " >
+            <ul ng-repeat="x in names">
+               <b style="color:whitesmoke"> {{ x.UserName}}</b>  : <span style="color:white">{{ x.ResponseMessage}}</span>
+             </ul>
+        </div>
+        <section style="float: right; margin: -544px -486px 0 0; " id="app" hidden>
+         <video style="height: 400px; width: 279px;" id="monitor" autoplay></video> <canvas id="photo"></canvas>
+               
+        </section>
+        <button class="k-button" ng-click="fnSend()">Send</button>
+        <input type="text" ng-keypress="fnEnter($event)" ng-model="msg" id="msg" style="width:811px" class="k-textbox" />
+    </div>
+    <script>
+            var app = angular.module('myApp', []);
+    app.controller('customersCtrl', function ($scope, $http) {
+        debugger;
+        $scope.userId = '';
+        //http://localhost:50124/Home/GetMessages
+        $http.get("@Url.Action("GetMessages","Home")")
+                     .then(function (response) {
+                         debugger;
+                         $scope.names = response.data
+                     })
+        //myFunction
+        $scope.fnSend = function () {
+            debugger;
+            $http({
+                method: "GET",
+                url: "@Url.Action("Contact","Home")",
+                params: { UserId: $("#UserId").val(), Message: $scope.msg },
+            }).then(function mySucces(response) {
+                debugger;
+                $scope.msg = "";
+
+                $http.get("@Url.Action("GetMessages","Home")")
+                .then(function (response) {
+                    debugger;
+                    $scope.names = response.data
+                })
+            }, function myError(response) {
+                alert('ERROR');
+            });
+        }
+        //refresh function
+        window.setInterval(function () {
+            $http.get("@Url.Action("GetMessages","Home")")
+            .then(function (response) {
+
+                $scope.names = response.data
+                $("#tbl").scrollTop($("#tbl")[0].scrollHeight);
+            })
+        }, 1000);
+        //enter function
+        $scope.fnEnter = function (keyEvent) {
+            if (keyEvent.which === 13)
+            {
+                $scope.fnSend();
+            }
+        }
+
+    });
+</script>
+
+<script type="text/javascript">
+  //  navigator.webkitGetUserMedia(
+  //{ "video": true, "audio": true },
+  //function (s) {
+  //    document.querySelector('video').src =
+  //      window.webkitURL.createObjectURL(s);
+  //},
+    //function (e) { console.log(e); }
+    //);
+
+
+    //navigator.webkitGetUserMedia({audio: true, video: true}, successCallback, errorCallback);
+    //navigator.webkitGetUserMedia("video,audio", successCallback, errorCallback);
+    //function successCallback(stream) {
+    //    sourcevid.src = window.webkitURL.createObjectURL(stream);
+    //    sourcevid.style.webkitTransform = "rotateY(180deg)";
+    //    localStream = stream;
+    //}
+
+    //function errorCallback(error) {
+    //    logg('An error occurred: [CODE ' + error.code + ']');
+    //}
+    //var remotevid = document.getElementById('remotevid');
+
+    //try {
+    //    logg("Creating peer connection");
+    //    var servers = [];
+    //    servers.push({ 'url': 'stun:' + stunServer });
+    //    var pc_config = { 'iceServers': servers };
+    //    peerConn = new webkitRTCPeerConnection(pc_config);
+    //    peerConn.onicecandidate = onIceCandidate;
+    //}
+
+    //catch (e) {
+    //    logg("Failed to create PeerConnection, exception: " + e.message);
+    //}
+
+    //peerConn.onaddstream = onRemoteStreamAdded;
+    //peerConn.onremovestream = onRemoteStreamRemoved;
+
+    //function onRemoteStreamAdded(event) {
+    //    logg("Added remote stream");
+    //    remotevid.src = window.webkitURL.createObjectURL(event.stream);
+    //}
+</script>

@@ -1,0 +1,372 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Angular.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Angular.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Angular.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\DotNetOpenAuth.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Kendo.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Data.Edm.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Data.OData.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Spatial.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Http.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Http.OData.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\WebGrease.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\WebMatrix.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\WebMatrix.WebData.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Kendo.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Http.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\WebMatrix.Data.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\WebMatrix.WebData.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\DotNetOpenAuth.Core.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Web.Http.OData.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Data.Edm.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Data.OData.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\System.Spatial.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\cs-CZ\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\da-DK\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\de-DE\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\es-ES\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\fr-CA\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\it-IT\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\ro-RO\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\tr-TR\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\de\System.Spatial.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\es\System.Spatial.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\fr\System.Spatial.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\it\System.Spatial.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\ja\System.Spatial.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\ko\System.Spatial.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\ru\System.Spatial.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\obj\Debug\Angular.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\obj\Debug\Angular.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\obj\Debug\Angular.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapter.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapterV5.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.AzMan.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.Unity.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Database.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Database.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.AzMan.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.AzMan.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.Unity.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.Unity.Configuration.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Angular\Angular\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\HP Data\Angular\Angular\bin\Angular.dll.config
+D:\HP Data\Angular\Angular\bin\Angular.dll
+D:\HP Data\Angular\Angular\bin\Angular.pdb
+D:\HP Data\Angular\Angular\bin\Antlr3.Runtime.dll
+D:\HP Data\Angular\Angular\bin\DotNetOpenAuth.AspNet.dll
+D:\HP Data\Angular\Angular\bin\DotNetOpenAuth.Core.dll
+D:\HP Data\Angular\Angular\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\HP Data\Angular\Angular\bin\DotNetOpenAuth.OAuth.dll
+D:\HP Data\Angular\Angular\bin\DotNetOpenAuth.OpenId.dll
+D:\HP Data\Angular\Angular\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\HP Data\Angular\Angular\bin\EntityFramework.dll
+D:\HP Data\Angular\Angular\bin\Kendo.Mvc.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Data.Edm.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Data.OData.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapter.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.HostAdapterV5.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.AzMan.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.ServiceLocation.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.Unity.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.Unity.Interception.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Web.Infrastructure.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\HP Data\Angular\Angular\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\HP Data\Angular\Angular\bin\Newtonsoft.Json.dll
+D:\HP Data\Angular\Angular\bin\System.Spatial.dll
+D:\HP Data\Angular\Angular\bin\System.Web.Helpers.dll
+D:\HP Data\Angular\Angular\bin\System.Web.Http.OData.dll
+D:\HP Data\Angular\Angular\bin\System.Web.Mvc.dll
+D:\HP Data\Angular\Angular\bin\System.Web.Optimization.dll
+D:\HP Data\Angular\Angular\bin\System.Web.Razor.dll
+D:\HP Data\Angular\Angular\bin\System.Web.WebPages.Deployment.dll
+D:\HP Data\Angular\Angular\bin\System.Web.WebPages.dll
+D:\HP Data\Angular\Angular\bin\System.Web.WebPages.Razor.dll
+D:\HP Data\Angular\Angular\bin\WebGrease.dll
+D:\HP Data\Angular\Angular\bin\WebMatrix.Data.dll
+D:\HP Data\Angular\Angular\bin\WebMatrix.WebData.dll
+D:\HP Data\Angular\Angular\bin\Kendo.Mvc.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Database.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Caching.Database.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Logging.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.AzMan.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.AzMan.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.AspNet.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.Unity.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.Unity.Configuration.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\HP Data\Angular\Angular\bin\Microsoft.Practices.Unity.Interception.Configuration.pdb
+D:\HP Data\Angular\Angular\bin\EntityFramework.xml
+D:\HP Data\Angular\Angular\bin\Newtonsoft.Json.xml
+D:\HP Data\Angular\Angular\bin\System.Web.Helpers.xml
+D:\HP Data\Angular\Angular\bin\System.Web.Mvc.xml
+D:\HP Data\Angular\Angular\bin\System.Web.Razor.xml
+D:\HP Data\Angular\Angular\bin\System.Web.WebPages.xml
+D:\HP Data\Angular\Angular\bin\System.Web.WebPages.Deployment.xml
+D:\HP Data\Angular\Angular\bin\System.Web.WebPages.Razor.xml
+D:\HP Data\Angular\Angular\bin\WebMatrix.Data.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\HP Data\Angular\Angular\bin\WebMatrix.WebData.xml
+D:\HP Data\Angular\Angular\bin\DotNetOpenAuth.AspNet.xml
+D:\HP Data\Angular\Angular\bin\DotNetOpenAuth.Core.xml
+D:\HP Data\Angular\Angular\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\HP Data\Angular\Angular\bin\DotNetOpenAuth.OAuth.xml
+D:\HP Data\Angular\Angular\bin\DotNetOpenAuth.OpenId.xml
+D:\HP Data\Angular\Angular\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\HP Data\Angular\Angular\bin\System.Web.Http.OData.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Data.Edm.xml
+D:\HP Data\Angular\Angular\bin\Microsoft.Data.OData.xml
+D:\HP Data\Angular\Angular\bin\System.Spatial.xml
+D:\HP Data\Angular\Angular\bin\bg-BG\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\cs-CZ\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\da-DK\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\de-DE\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\es-ES\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\fr-CA\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\fr-FR\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\it-IT\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\nl-NL\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\pl-PL\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\pt-BR\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\pt-PT\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\ro-RO\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\ru-RU\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\sv-SE\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\tr-TR\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\uk-UA\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\zh-CN\Kendo.Mvc.resources.dll
+D:\HP Data\Angular\Angular\bin\de\Microsoft.Data.Edm.resources.dll
+D:\HP Data\Angular\Angular\bin\es\Microsoft.Data.Edm.resources.dll
+D:\HP Data\Angular\Angular\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\HP Data\Angular\Angular\bin\it\Microsoft.Data.Edm.resources.dll
+D:\HP Data\Angular\Angular\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\HP Data\Angular\Angular\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\HP Data\Angular\Angular\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\HP Data\Angular\Angular\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\HP Data\Angular\Angular\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\HP Data\Angular\Angular\bin\de\Microsoft.Data.OData.resources.dll
+D:\HP Data\Angular\Angular\bin\es\Microsoft.Data.OData.resources.dll
+D:\HP Data\Angular\Angular\bin\fr\Microsoft.Data.OData.resources.dll
+D:\HP Data\Angular\Angular\bin\it\Microsoft.Data.OData.resources.dll
+D:\HP Data\Angular\Angular\bin\ja\Microsoft.Data.OData.resources.dll
+D:\HP Data\Angular\Angular\bin\ko\Microsoft.Data.OData.resources.dll
+D:\HP Data\Angular\Angular\bin\ru\Microsoft.Data.OData.resources.dll
+D:\HP Data\Angular\Angular\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\HP Data\Angular\Angular\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\HP Data\Angular\Angular\bin\de\System.Spatial.resources.dll
+D:\HP Data\Angular\Angular\bin\es\System.Spatial.resources.dll
+D:\HP Data\Angular\Angular\bin\fr\System.Spatial.resources.dll
+D:\HP Data\Angular\Angular\bin\it\System.Spatial.resources.dll
+D:\HP Data\Angular\Angular\bin\ja\System.Spatial.resources.dll
+D:\HP Data\Angular\Angular\bin\ko\System.Spatial.resources.dll
+D:\HP Data\Angular\Angular\bin\ru\System.Spatial.resources.dll
+D:\HP Data\Angular\Angular\bin\zh-Hans\System.Spatial.resources.dll
+D:\HP Data\Angular\Angular\bin\zh-Hant\System.Spatial.resources.dll
+D:\HP Data\Angular\Angular\obj\Debug\Angular.csprojResolveAssemblyReference.cache
+D:\HP Data\Angular\Angular\obj\Debug\Angular.dll
+D:\HP Data\Angular\Angular\obj\Debug\Angular.pdb
+D:\HP Data\Angular\Angular\bin\System.Net.Http.Formatting.dll
+D:\HP Data\Angular\Angular\bin\System.Web.Http.dll
+D:\HP Data\Angular\Angular\bin\System.Web.Http.WebHost.dll
+D:\HP Data\Angular\Angular\bin\System.Net.Http.Formatting.xml
+D:\HP Data\Angular\Angular\bin\System.Web.Http.xml
+D:\HP Data\Angular\Angular\bin\System.Web.Http.WebHost.xml

@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "PopUp";
+}
+
+<h2>PopUp</h2>
+@*angulare js pop*@
+<script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/ui-bootstrap-tpls-2.3.1.min.js"></script>
+    <script src="~/Scripts/ngDialog.min.js"></script>
+    <link href="~/Scripts/ngDialog.min.css" rel="stylesheet" />
+    <link href="~/Scripts/ngDialog-theme-default.css" rel="stylesheet" />
+    <script type="text/javascript">
+        angular.module("MyApp", ['ngDialog']).controller('MyController', ['$scope','ngDialog', function ($scope, ngDialog)
+        {
+            $scope.OpenPopUp = function () {
+                debugger;
+                ngDialog.openConfirm({
+                    template: 'modalDialogId',
+                    className: 'ngdialog-theme-default',
+                    controller: 'MyController'
+                });
+          }
+        }]);
+       
+            </script>
+
+<div ng-app="MyApp" ng-controller="MyController">
+   
+    <button type="button" class="btn btn-primary" ng-click="OpenPopUp()">Open PopUp</button>
+        <script type="text/ng-template" id="modalDialogId">
+        @{
+
+            var listOfQuestions = new List<SelectListItem>()
+                                        {
+                                            new SelectListItem {Text = "DropDown", Value = Convert.ToString("1")}
+                                        };
+        }
+        <div class="ngdialog-message">
+            <span>Type of Answere: @Html.DropDownList("name", listOfQuestions, "--Select Type--", new { @onchange = "fnRegisterAsTypeChange()" })</span>
+            <span> Question: @Html.TextBox("Answere")</span>
+           
+        </div>
+        <div class="ngdialog-buttons">
+            <button type="button" class="ngdialog-button ngdialog-button-primary" ng-click="confirm(confirmValue)">Confirm</button>
+            <button type="button" class="ngdialog-button ngdialog-button-secondary" ng-click="closeThisDialog('button')">Cancel</button>
+        </div>
+        </script>
+</div>

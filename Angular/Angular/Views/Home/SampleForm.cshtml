@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "SampleForm";
+}
+<script src="~/Scripts/angular-datepicker.js"></script>
+<link href="~/Scripts/angular-datepicker.css" rel="stylesheet" />
+<h2>SampleForm</h2>
+<script>
+    var app = angular.module('myApp', []);
+    app.controller('MyCtrl', function ($scope, $http) {
+        debugger;
+    });
+  //  angular.module('myApp', [
+  //'720kb.datepicker'
+    //  ]);
+     //};
+    //});
+</Script>
+<div ng-app="myApp" ng-controller="MyCtrl">
+    <datepicker>
+        <input ng-model="date" type="text" />
+    </datepicker>
+ 
+
+</div>
+

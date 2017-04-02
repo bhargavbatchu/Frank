@@ -1,0 +1,47 @@
+﻿@*<section id="app" hidden>
+    
+    <p><video id="monitor" autoplay></video> <canvas id="photo"></canvas>
+    <p><input type=button value="&#x1F4F7;" onclick="snapshot()">
+</section>
+<script type="text/javascript">
+    navigator.webkitGetUserMedia(
+  { "video": true, "audio": true },
+  function (s) {
+      document.querySelector('video').src =
+        window.webkitURL.createObjectURL(s);
+  },
+  function (e) { console.log(e); }
+);
+    ////navigator.getUserMedia('video user', gotStream, noStream);
+    //navigator.getUserMedia = (navigator.getUserMedia ||
+    //                   navigator.webkitGetUserMedia ||
+    //                   navigator.mozGetUserMedia ||
+    //                   navigator.msGetUserMedia, gotStream, noStream);
+    //var video = document.getElementById('monitor');
+    //var canvas = document.getElementById('photo');
+    //function gotStream(stream) {
+    //    video.src = URL.getObjectURL(stream);
+    //    video.onerror = function () {
+    //        stream.stop();
+    //        noStream();
+    //    }
+    //    video.onloadedmetadata = function () {
+    //        canvas.width = video.videoWidth;
+    //        canvas.height = video.videoHeight;
+    //        document.getElementById('splash').hidden = true;
+    //        document.getElementById('app').hidden = false;
+    //    }
+    //}
+    //function noStream() {
+    //    document.getElementById('errorMessage').textContent = 'No camera available.';
+    //}
+    function snapshot() {
+        debugger;
+        canvas.getContext('2d').drawImage(video, 0, 0);
+    }
+</script>*@
+
+
+
+<div id="flashwrapper">
+    <object type="application/x-shockwave-flash" data="https://www.youtube.com/watch?v=8zIm3ijR3O0" width="320" height="520" id="flash" style="visibility: visible; width: 300px; height: 488px;"></object></div>
